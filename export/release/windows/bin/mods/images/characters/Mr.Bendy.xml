@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mr.Bendy.png">
+<SubTexture name="Mr.Bendy idle0000" x="0" y="514" width="330" height="508" frameX="-525" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy idle0001" x="330" y="514" width="325" height="506" frameX="-525" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy idle0002" x="1222" y="0" width="317" height="500" frameX="-525" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy idle0003" x="330" y="514" width="325" height="506" frameX="-525" frameY="-178" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy down0000" x="0" y="1022" width="298" height="472" frameX="-525" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy down0001" x="298" y="1022" width="298" height="465" frameX="-525" frameY="-217" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy up0000" x="1222" y="500" width="299" height="499" frameX="-525" frameY="-185" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy up0001" x="655" y="514" width="298" height="502" frameX="-525" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy left0000" x="615" y="0" width="298" height="509" frameX="-525" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy left0001" x="317" y="0" width="298" height="510" frameX="-525" frameY="-175" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy right0000" x="913" y="0" width="309" height="509" frameX="-525" frameY="-174" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Mr.Bendy right0001" x="0" y="0" width="317" height="514" frameX="-525" frameY="-172" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

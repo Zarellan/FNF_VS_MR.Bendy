@@ -1,0 +1,41 @@
+{
+	"storyName": "Vs Mr.Bendy (demo)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "mrbb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"inkside",
+			"Mr_Bendy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"coolation",
+			"Mr_Bendy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

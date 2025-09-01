@@ -1,0 +1,10 @@
+{	
+	"titlex":-150,
+	"titley":9999,
+	"startx":150,
+	"starty":620,
+	"gfx":9999,
+	"gfy":40,
+	"backgroundSprite":"mrbendy_Menu",
+	"bpm":102
+}
